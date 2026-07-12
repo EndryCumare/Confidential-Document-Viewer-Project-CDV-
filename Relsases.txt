@@ -1,0 +1,6 @@
+V0.0.2 Prototipe Released
+
+-New UI changed-
+With interface buttons, even though they are not visible at first glance.
+
+-A new way to create your own formats-
