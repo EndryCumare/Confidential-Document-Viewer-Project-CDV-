@@ -1,6 +1,44 @@
-Actually V0.0.2 Prototipe Released
+JUL-25-2026 | Confidential Documents Viewer | Version 0.0.2 Prototipe Released
 
--New UI changed-
-With interface buttons, even though they are not visible at first glance.
+ESP:
 
--A new way to create your own formats-
+ADVERTENCIA: 
+Las versiones con la "P" o "A" No son versiones que debe usar en su
+dia a dia o no puede llegar a ser sostificadas al tener errores 
+que corregir, puedes sugerir en mi instagram en MD @Endrybros95 o
+en mi correo Endrybrosygd@gmail.com
+-
+-
+Gracias
+-
+-
+-
+E95
+
+-Nuevas funciones-
+
+1- Nueva interfaz de usuario, interfaz modo oscuro por defecto
+
+2- Una nueva forma de crear tus propios formatos de archivo
+(Ejemplo: .cdv, .sec, enc o propio)
+
+3- Protección de contraseñas min 4 digitos al guardar
+
+4- Tecnología de cifrado AES (Advanced Encryption Standard). Si hubo
+un error interno o no esta disponible esa función de encriptación, se
+usa en su lugar XOR (eXclusive) para sustituir la función principal
+
+5- Verificación de inegridad
+
+6- Funciones escenciales para el manejo correcto de procesar texto
+(Aumentar y disminuir tamaño, agrego de imágenes, tachar texto, ect)
+
+-Correción de errores
+
+1- Al aumentar el texto que está por defecto, no lo hace si no en su
+lugar disminuye
+
+2- No se guarda correctamente el formato propio
+
+
+
